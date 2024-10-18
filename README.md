@@ -18,37 +18,42 @@
 ### 🛠️ Tecnologías y Herramientas
 
 <p align="center">
+   <!-- Frontend -->
    <img alt="Angular" width="50px" style="margin: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
    <img alt="Vue.js" width="50px" style="margin: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/>
+   <img alt="Next.js" width="50px" style="margin: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"/>
    <img alt="TypeScript" width="50px" style="margin: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
    <img alt="JavaScript" width="50px" style="margin: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
    <img alt="HTML" width="50px" style="margin: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
    <img alt="CSS" width="50px" style="margin: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
    <img alt="SASS" width="50px" style="margin: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
    <img alt="Bootstrap" width="50px" style="margin: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
+
+   <!-- Backend -->
    <img alt=".NET" width="50px" style="margin: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg"/>
+   <img alt="C#" width="50px" style="margin: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
+   <img alt="Java" width="50px" style="margin: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
    <img alt="Python" width="50px" style="margin: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-   <img alt="Docker" width="50px" style="margin: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+   <img alt="Swagger" width="50px" style="margin: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg"/>
+
+   <!-- Bases de Datos -->
    <img alt="MongoDB" width="50px" style="margin: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
    <img alt="MySQL" width="50px" style="margin: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+   <img alt="PostgreSQL" width="50px" style="margin: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+
+   <!-- DevOps / Infraestructura -->
+   <img alt="Docker" width="50px" style="margin: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+   <img alt="Azure DevOps" width="50px" style="margin: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg"/>
+   <img alt="Bash" width="50px" style="margin: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
+
+   <!-- Gestión de Proyectos y Herramientas -->
    <img alt="Postman" width="50px" style="margin: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg"/>
    <img alt="Visual Studio Code" width="50px" style="margin: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
    <img alt="Visual Studio" width="50px" style="margin: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/>
    <img alt="Git" width="50px" style="margin: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
    <img alt="Figma" width="50px" style="margin: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
-   <img alt="C#" width="50px" style="margin: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
-   <img alt="Java" width="50px" style="margin: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-   <img alt="Swagger" width="50px" style="margin: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg"/>
-   <img alt="OAuth" width="50px" style="margin: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oauth/oauth-original.svg"/>
    <img alt="Jira" width="50px" style="margin: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"/>
    <img alt="Trello" width="50px" style="margin: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg"/>
-   <img alt="Next.js" width="50px" style="margin: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-   <img alt="azureDevops" width="50px" style="margin: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" />
-   <img alt="bash" width="50px" style="margin: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
-          
-          
-          
-
 </p>
 
 ---
