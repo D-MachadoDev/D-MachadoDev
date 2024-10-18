@@ -18,18 +18,37 @@
 ### 🛠️ Tecnologías y Herramientas
 
 <p align="center">
-   <img alt="Angular" width="40px" style="margin: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
-   <img alt="JavaScript" width="40px" style="margin: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-   <img alt="HTML" width="40px" style="margin: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-   <img alt="CSS" width="40px" style="margin: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-   <img alt=".NET" width="40px" style="margin: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg"/>
-   <img alt="Python" width="40px" style="margin: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-   <img alt="Docker" width="40px" style="margin: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
-   <img alt="MongoDB" width="40px" style="margin: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
-   <img alt="MySQL" width="40px" style="margin: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-   <img alt="Postman" width="40px" style="margin: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg"/>
-   <img alt="Git" width="40px" style="margin: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-   <img alt="Figma" width="40px" style="margin: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
+   <img alt="Angular" width="50px" style="margin: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
+   <img alt="Vue.js" width="50px" style="margin: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/>
+   <img alt="TypeScript" width="50px" style="margin: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+   <img alt="JavaScript" width="50px" style="margin: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+   <img alt="HTML" width="50px" style="margin: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+   <img alt="CSS" width="50px" style="margin: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+   <img alt="SASS" width="50px" style="margin: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
+   <img alt="Bootstrap" width="50px" style="margin: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
+   <img alt=".NET" width="50px" style="margin: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg"/>
+   <img alt="Python" width="50px" style="margin: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+   <img alt="Docker" width="50px" style="margin: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+   <img alt="MongoDB" width="50px" style="margin: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
+   <img alt="MySQL" width="50px" style="margin: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+   <img alt="Postman" width="50px" style="margin: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg"/>
+   <img alt="Visual Studio Code" width="50px" style="margin: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+   <img alt="Visual Studio" width="50px" style="margin: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/>
+   <img alt="Git" width="50px" style="margin: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+   <img alt="Figma" width="50px" style="margin: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
+   <img alt="C#" width="50px" style="margin: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
+   <img alt="Java" width="50px" style="margin: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+   <img alt="Swagger" width="50px" style="margin: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg"/>
+   <img alt="OAuth" width="50px" style="margin: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oauth/oauth-original.svg"/>
+   <img alt="Jira" width="50px" style="margin: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"/>
+   <img alt="Trello" width="50px" style="margin: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg"/>
+   <img alt="Next.js" width="50px" style="margin: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+   <img alt="azureDevops" width="50px" style="margin: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" />
+   <img alt="bash" width="50px" style="margin: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
+          
+          
+          
+
 </p>
 
 ---
@@ -58,12 +77,12 @@ PetPaws es una plataforma diseñada para conectar amantes de las mascotas con se
 ### 📊 Estadísticas
 
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=D-MachadoDev&show_icons=true&theme=gruvbox" alt="GitHub Stats" height="200"/>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-MachadoDev&layout=compact&langs_count=8&theme=gruvbox" alt="Top Languages" height="200"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=D-MachadoDev&show_icons=true&theme=gruvbox" alt="GitHub Stats" height="180" style="margin: 10px;"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-MachadoDev&layout=compact&langs_count=8&theme=gruvbox" alt="Top Languages" height="180" style="margin: 10px;"/>
 </p>
 
 <p align="center">
-   <img src="https://streak-stats.demolab.com?user=D-MachadoDev&theme=gruvbox&border_radius=4.5" alt="GitHub Streak"/>
+   <img src="https://streak-stats.demolab.com?user=D-MachadoDev&theme=gruvbox&border_radius=4.5" alt="GitHub Streak" style="margin: 10px;"/>
 </p>
 
 ---
