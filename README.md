@@ -1,21 +1,21 @@
-# 👨‍💻 David Alexander Machado Alzate
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://linkedin.com/)
 
-**`Full-Stack Developer | Passionate about Technology`**
-
-Hello! I'm **David Alexander Machado Alzate**, an aspiring **full-stack developer** committed to mastering modern web technologies and frameworks. I enjoy creating scalable solutions that can solve real-world problems. I'm currently enhancing my expertise and building my portfolio to make a meaningful impact in the tech industry.
-
-<p align="left">
-  <a href="https://github.com/">
-    <img alt="GitHub followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/DavidMachado?color=blue&labelColor=blue&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/">
-    <img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-connect-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-</p>
+<h1 align="center">Hola 👋, soy David Machado</h1>
+<img align="right" alt="Coding" width="400" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4d2c9658-e25e-4dd6-9c56-932447f29482/ddio625-88c6c961-13c1-43ee-a08f-3c3ceeb7f053.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzRkMmM5NjU4LWUyNWUtNGRkNi05YzU2LTkzMjQ0N2YyOTQ4MlwvZGRpbzYyNS04OGM2Yzk2MS0xM2MxLTQzZWUtYTA4Zi0zYzNjZWViN2YwNTMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.1Shjpe-XOI7ativXu5UeoPDRzJkK_mAkgdJdHTEVSQM"/>
 
 ---
 
-### 🛠️ Languages and Tools
+### 🚀 Sobre Mí
+
+- 🔭 Actualmente trabajando en proyectos **full-stack personales**.
+- 🌱 Aprendiendo **DevOps** para mejorar la infraestructura y automatización de mis proyectos.
+- 💬 Pregúntame sobre **Angular, MEAN/MERN, Docker y .NET**.
+- 📫 Puedes contactarme en: **tu_email@example.com**.
+- ⚡ **Dato Curioso**: ¡Tengo un gran sentido del humor!
+
+---
+
+### 🛠️ Tecnologías y Herramientas
 
 <p align="left">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/>
@@ -29,25 +29,28 @@ Hello! I'm **David Alexander Machado Alzate**, an aspiring **full-stack develope
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
 </p>
 
 ---
 
-### 📂 Featured Projects
+### 📂 Proyectos Destacados
 
-🚧 *Coming Soon: Stay tuned for exciting projects that showcase my full-stack development skills!*
+🚧 *Espacio reservado para proyectos en desarrollo. ¡Muy pronto agregaré mis mejores trabajos!*
 
 ---
 
-### 🌐 Connect with Me
+### 🌐 Conéctate Conmigo
 
 - [GitHub](https://github.com/)  
 - [LinkedIn](https://linkedin.com/)  
-> *More links coming soon...*
+> *Pronto añadiré más enlaces relevantes...*
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Estadísticas de GitHub
 
 ![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidMachado&show_icons=true&theme=gruvbox)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidMachado&layout=compact&theme=gruvbox)  
@@ -55,21 +58,23 @@ Hello! I'm **David Alexander Machado Alzate**, an aspiring **full-stack develope
 
 ---
 
-### 🎯 Goals and Future Plans
+### 🎯 Objetivos y Planes a Futuro
 
-- 🚧 **Develop** my full-stack skills through personal projects.  
-- 📦 **Contribute** to open-source projects to learn and collaborate.  
-- 🌍 **Launch** my first web application.  
-- 🧑‍🏫 **Share knowledge** and grow with the developer community.  
-- 🥇 **Master** Docker and containerization tools.  
-- 🚀 **Create** a digital product of my own.  
-
----
-
-### 💡 Personal Philosophy
-
-*"The only limit is the one you set yourself."*
+- 🚧 Seguir desarrollando habilidades **full-stack** mediante proyectos personales.  
+- 📦 Contribuir activamente en **proyectos open-source**.  
+- 🌍 Lanzar y mantener **mi primera aplicación web**.  
+- 🧑‍🏫 Colaborar y compartir conocimientos con otros desarrolladores.  
+- 🥇 Dominar herramientas de infraestructura como **Docker**.  
+- 🚀 Crear y comercializar un **producto digital propio**.
 
 ---
 
-Thank you for visiting my profile! I look forward to connecting with other developers and building something amazing together.
+### 💡 Filosofía Personal
+
+*"El único límite es el que tú mismo te pongas."*
+
+---
+
+<p align="center">
+   ¡Gracias por visitar mi perfil! Estoy emocionado de conectar con otros desarrolladores y trabajar juntos en proyectos interesantes.
+</p>
