@@ -46,8 +46,12 @@
 
 ### 📂 Proyectos Destacados
 
-- **[PetPaws](https://github.com/D-MachadoDev/PetPaws):**  
-  Plataforma para conectar a amantes de las mascotas con servicios locales como veterinarios y paseadores.
+🚀 **Repositorio:** [PetPaws](https://github.com/D-MachadoDev/PetPaws)  
+
+**Descripción:**  
+PetPaws es una plataforma diseñada para conectar amantes de las mascotas con servicios locales como veterinarios, paseadores y refugios. La aplicación permite a los usuarios registrarse, buscar servicios cercanos y reservar citas en línea.
+
+🚧 *Espacio reservado para proyectos en desarrollo. ¡Muy pronto agregaré mis mejores trabajos!*
 
 ---
 
