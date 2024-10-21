@@ -83,7 +83,7 @@ PetPaws es una plataforma diseñada para conectar amantes de las mascotas con se
 
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=D-MachadoDev&show_icons=true&theme=gruvbox" alt="GitHub Stats" height="180" style="margin: 10px;"/>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-MachadoDev&layout=compact&langs_count=8&theme=gruvbox" alt="Top Languages" height="180" style="margin: 10px;"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=gruvbox" alt="Top Languages" height="180" style="margin: 10px;"/>
 </p>
 
 <p align="center">
