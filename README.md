@@ -78,16 +78,15 @@
 
 
 ---
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-### <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35px></picture>Sobre Mí
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" style="margin-left: 50px; width: 290px;"/>
+### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35px" style="vertical-align:middle;"></picture> Sobre Mí
 
-- 🔭 **Proyectos:** Estoy trabajando en proyectos **full-stack personales**.
-- 🌱 **Aprendizaje:** Actualmente aprendiendo **DevOps** y explorando **contenedores con Docker**.
-- 💬 **Pregúntame sobre:** Angular, MEAN/MERN, .NET y Python.
-- 📫 **Contacto:** Puedes escribirme a: **avidmachado@gmail.com**.
+- 🔭 **Proyectos:** Estoy trabajando en proyectos **full-stack personales**.  
+- 🌱 **Aprendizaje:** Actualmente aprendiendo **DevOps** y explorando **contenedores con Docker**.  
+- 💬 **Pregúntame sobre:** Angular, MEAN/MERN, .NET y Python.  
+- 📫 **Contacto:** Puedes escribirme a: **avidmachado@gmail.com**.  
 - ⚡ **Dato curioso:** Me encanta colaborar con otros desarrolladores y ¡tengo un gran sentido del humor!
-
 
 ---
 
