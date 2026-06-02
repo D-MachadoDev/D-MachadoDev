@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="200" viewBox="0 0 900 200">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Syne:wght@800&amp;family=Fira+Code:wght@400;500&amp;display=swap');
+      .name { font-family: 'Syne', sans-serif; font-size: 52px; font-weight: 800; fill: #ffffff; }
+      .sub  { font-family: 'Fira Code', monospace; font-size: 15px; font-weight: 400; fill: #dddddd; }
+      .tag  { font-family: 'Fira Code', monospace; font-size: 12px; font-weight: 500; fill: #e8451e; }
+    </style>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%"   stop-color="#1a0a06"/>
+      <stop offset="45%"  stop-color="#2d0d05"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#e8451e"/>
+      <stop offset="100%" stop-color="#c0392b"/>
+    </linearGradient>
+    <clipPath id="clip">
+      <rect width="900" height="200" rx="0"/>
+    </clipPath>
+  </defs>
+
+  <!-- fondo -->
+  <rect width="900" height="200" fill="url(#bg)"/>
+
+  <!-- ola decorativa izquierda -->
+  <ellipse cx="-30" cy="100" rx="180" ry="180" fill="#e8451e" opacity="0.08"/>
+  <ellipse cx="30"  cy="100" rx="90"  ry="90"  fill="#e8451e" opacity="0.06"/>
+
+  <!-- barra de acento superior -->
+  <rect x="0" y="0" width="900" height="3" fill="url(#accent)"/>
+
+  <!-- barra de acento izquierda -->
+  <rect x="50" y="30" width="4" height="140" rx="2" fill="#e8451e"/>
+
+  <!-- nombre -->
+  <text x="72" y="100" class="name">David Machado</text>
+
+  <!-- subtítulo -->
+  <text x="74" y="130" class="sub">Full-Stack Developer · Medellín, Colombia 🇨🇴</text>
+
+  <!-- tags técnicos -->
+  <text x="74" y="158" class="tag">Angular · .NET · Node.js · Docker · DevOps</text>
+
+  <!-- círculos decorativos derecha -->
+  <circle cx="810" cy="60"  r="50" fill="#e8451e" opacity="0.07"/>
+  <circle cx="860" cy="140" r="70" fill="#c0392b" opacity="0.06"/>
+  <circle cx="780" cy="160" r="30" fill="#e8451e" opacity="0.10"/>
+
+  <!-- punto acento -->
+  <circle cx="62" cy="97" r="4" fill="#e8451e"/>
+
+  <!-- barra bottom -->
+  <rect x="0" y="197" width="900" height="3" fill="url(#accent)"/>
+</svg>
